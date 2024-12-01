@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|c:\\users\\a\\desktop\\practicedi(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|c:\\users\\a\\desktop\\practicedi(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|solutionrelative:views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|c:\\users\\a\\desktop\\practicedi(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|solutionrelative:views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|c:\\users\\a\\desktop\\practicedi(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|solutionrelative:views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|c:\\users\\a\\desktop\\practicedi(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|c:\\users\\a\\desktop\\practicedi(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|c:\\users\\a\\desktop\\practicedi(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\service\\userdetaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|solutionrelative:service\\userdetaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|c:\\users\\a\\desktop\\practicedi(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\viewmodels\\adminqueryformsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|solutionrelative:viewmodels\\adminqueryformsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|c:\\users\\a\\desktop\\practicedi(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\viewmodels\\createprojectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|solutionrelative:viewmodels\\createprojectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|c:\\users\\a\\desktop\\practicedi(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\viewmodels\\bookingmeetingroomvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1D6F1F-C35B-4937-935B-574FCE82FDBD}|BPMPlus.csproj|solutionrelative:viewmodels\\bookingmeetingroomvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T10:01:48.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T10:01:37.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T10:01:34.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T10:01:18.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:00:40.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProjectsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\ViewModels\\CreateProjectsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CreateProjectsViewModel.cs",
+              "ToolTip": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\ViewModels\\CreateProjectsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CreateProjectsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:50:42.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingMeetingRoomVM.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\ViewModels\\BookingMeetingRoomVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BookingMeetingRoomVM.cs",
+              "ToolTip": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\ViewModels\\BookingMeetingRoomVM.cs",
+              "RelativeToolTip": "ViewModels\\BookingMeetingRoomVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:50:40.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminQueryFormsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\ViewModels\\AdminQueryFormsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AdminQueryFormsViewModel.cs",
+              "ToolTip": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\ViewModels\\AdminQueryFormsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AdminQueryFormsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:50:38.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "userDetailData.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\Service\\userDetailData.cs",
+              "RelativeDocumentMoniker": "Service\\userDetailData.cs",
+              "ToolTip": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\Service\\userDetailData.cs",
+              "RelativeToolTip": "Service\\userDetailData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:32:29.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\A\\Desktop\\practiceDI(\u7DF4\u7FD2\u6CE8\u5165\u7248\u672C)\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:15:35.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
